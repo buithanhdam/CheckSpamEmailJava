@@ -1,0 +1,3 @@
+Bài tập Lab 6
+Sinh viên thực hiện Bài lab theo yêu cầu,
+Sau khi thực hiện Sinh viên chụp hình code và hình kết quả.

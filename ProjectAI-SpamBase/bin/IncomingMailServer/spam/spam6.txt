@@ -1,0 +1,24 @@
+
+7/ Xác định trúng thưởng
+Sau khi khách hàng nhập chính xác, đầy đủ tất cả thông tin vào website chương trình và bấm nút “Đăng ký bảo hành”, hệ thống sẽ hiện ra bảng thông báo xác nhận khách hàng đã đăng ký tham dự rút thăm trúng thưởng thành công.
+Dự kiến vào ngày 25/04/2014, buổi quay số rút thăm trúng thưởng sẽ được tổ chức tại văn phòng Công ty TNHH Acer tại TP-HCM với sự tham dự của đại diện công ty TNHH Acer Việt Nam, đại diện Sở Công Thương và đại diện khách hàng.
+Hệ thống điện tử sẽ chọn ngẫu nhiên số Serial Number đã được đăng ký kích hoạt bảo hành hợp lệ và hiển thị các số Serial Number trúng giải ngay trên website.
+Khách hàng trúng thưởng là khách hàng sở hữu các số Serial Number trúng giải và có đầy đủ hồ sơ chứng từ chứng minh xác thực.
+Khách hàng không trúng thưởng là khách hàng không sở hữu các số Serial Number trúng giải và tham dự không hợp lệ.
+
+8/ Điều kiện nhận giải thưởng:
+Trong mọi trường hợp, khách hàng chỉ được xem là trúng thưởng hợp lệ và được nhận giải thưởng nếu đáp ứng đầy đủ các điều kiện sau:
+• Tên và Địa chỉ trên CMND phải trùng khớp với Tên và Địa chỉ của khách hàng đã cung cấp khi đăng ký tham gia chương trình.
+• Số hóa đơn GTGT phải trùng khớp với số hóa đơn GTGT mà khách hàng đã cung cấp khi tham gia chương trình.
+• Ngày mua máy tính xách tay thể hiện trên hóa đơn GTGT nằm trong thời gian khuyến mại của chương trình.
+• Số Serial Number trên máy tính xách tay của khách hàng phải trùng khớp với số Serial Number trúng thưởng lưu trên hệ thống của chương trình.
+
+9/ Xác minh điều kiện nhận giải thưởng
+- Trong vòng 2 ngày làm việc (thời hạn trao thưởng là 30 ngày) kể từ thời điểm khách hàng được rút thăm trúng thưởng, BTC chương trình sẽ liên hệ với khách hàng trúng thưởng để xác minh điều kiện nhận giải thưởng.
+- BTC sẽ gọi theo số điện thoại di động do khách hàng cung cấp. Trường hợp số điện thoại do khách hàng cung cấp không liên lạc được trong vòng 7 ngày kể từ thời điểm cuộc gọi đầu tiên (thời hạn trao thưởng là 30 ngày), giải thưởng sẽ vô hiệu lực và được xử lý theo qui định của Bộ Công Thương.
+- Sau khi liên lạc được với khách hàng, ban tổ chức chương trình sẽ hướng dẫn khách về thủ tục xác minh điều kiện nhận giải thưởng, như sau:
+Khách hàng sẽ gửi hồ sơ trúng thưởng gồm: (i) bản sao CMND có công chứng hoặc xác nhận của chính quyền địa phương, (ii) bản sao hóa đơn mua sản phẩm trúng thưởng, và (iii) bản sao phiếu bảo hành theo đường bưu điện về cho chương trình theo địa chỉ sau đây để ban tổ chức đối chiếu với các thông tin mà khách hàng đã nhập tại thời điểm tham gia rút thăm:
+
+Công ty TNHH Acer Việt Nam
+Địa chỉ: 60 Nguyễn Đình Chiểu, phường Đa Kao, quận 1, TPHCM
+Điện thoại: 08-39106888 - Người liên lạc: chị Lê Quỳnh Thụy Vân (bộ phận Marketing)
